@@ -160,6 +160,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 8419985,
+      "category": "sustainability5",
+      "title": "Beach Cleanup5",
+      "description": "Help pick up trash along the shore.5",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Carey Wales"
     }
   ]
 }
