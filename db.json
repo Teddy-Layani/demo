@@ -1,17 +1,34 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
   },
-  "events":[
+  "events": [
     {
       "id": 5928101,
       "category": "animal welfare",
@@ -39,6 +56,105 @@
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 5928102,
+      "category": "animal welfare2",
+      "title": "Cat Adoption Day2",
+      "description": "Find your new feline friend at this event.2",
+      "location": "Meow Town2",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 4582792,
+      "category": "food2",
+      "title": "Community Gardening2",
+      "description": "Join us as we tend to the community edible plants.2",
+      "location": "Flora City2",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 8419982,
+      "category": "sustainability2",
+      "title": "Beach Cleanup2",
+      "description": "Help pick up trash along the shore.2",
+      "location": "Playa Del Carmen2",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 5928103,
+      "category": "animal welfare3",
+      "title": "Cat Adoption Day3",
+      "description": "Find your new feline friend at this event.3",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 4582793,
+      "category": "food3",
+      "title": "Community Gardening3",
+      "description": "Join us as we tend to the community edible plants.3",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 8419983,
+      "category": "sustainability3",
+      "title": "Beach Cleanup3",
+      "description": "Help pick up trash along the shore.3",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 5928104,
+      "category": "animal welfare4",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.4",
+      "location": "Meow Town4",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 4582794,
+      "category": "food4",
+      "title": "Community Gardening4",
+      "description": "Join us as we tend to the community edible plants.4",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 8419984,
+      "category": "sustainability4",
+      "title": "Beach Cleanup4",
+      "description": "Help pick up trash along the shore.4",
       "location": "Playa Del Carmen",
       "date": "July 22, 2022",
       "time": "11:00",
